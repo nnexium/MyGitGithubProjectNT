@@ -12,6 +12,8 @@ public class Atm {
 
         System.out.println("Ahmet branchi kodlarini yazdi.");
         //version ahmt
+        System.out.println();
+        //ahmt3
     }
 
 
