@@ -16,6 +16,7 @@ public class Atm {
         //ahmt3
         System.out.println();
         //localde değişiklik yaptım.
+        //remoteda değişiklik yaptım
     }
 
 
